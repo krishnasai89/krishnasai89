@@ -3,7 +3,7 @@
 
 <!-- Title Typing Effect -->
 <h3 align="center"><img
-                src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hii It's+Krishna Sai Vellampalli;Intern+Developer😎"
+                src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hii It's+Krishna Sai;Intern+Developer😎;esearch+on+deep+learning😎"
                 alt="Typing SVG" /></a>
 </h3>
 
