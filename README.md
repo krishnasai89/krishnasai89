@@ -32,19 +32,19 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-        <a href="" target="blank"><img align="center"
+        <a href="https://x.com/Krishnav208" target="blank"><img align="center"
                         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
                         alt="jettychowdary" height="30" width="40" /></a>
-        <a href="" target="blank"><img align="center"
+        <a href="https://www.linkedin.com/in/krishna-sai-vellampalli/" target="blank"><img align="center"
                         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
                         alt="jetti-rajesh" height="30" width="40" /></a>
-        <a href="" target="blank"><img align="center"
+        <a href="https://www.facebook.com/kishna.sai.89" target="blank"><img align="center"
                         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
                         alt="TransformwithRajesh44" height="30" width="40" /></a>
         <a href="https://instagram.com/rajesh_chowdary_hack_lover" target="blank"><img align="center"
                         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
                         alt="rajesh_chowdary_hack_lover" height="30" width="40" /></a>
-        <a href="" target="blank"><img align="center"
+        <a href="https://www.instagram.com/krishna_sai_89/" target="blank"><img align="center"
                         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
                         alt="chowdarytechworld" height="30" width="40" /></a>
 
