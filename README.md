@@ -57,9 +57,11 @@
 </div>
 <br/>
 <br/>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
 <div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=krishnasai89&theme=transparent&hide_border=false&include_all_commits=false&count_private=true)
+
+![width="200"](https://github-readme-stats.vercel.app/api?username=krishnasai89&theme=transparent&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=krishnasai89&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnasai89&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
