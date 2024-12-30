@@ -52,17 +52,23 @@
  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode badge" />
  <br/>
  <br/>
- 
- ---
 </div>
 <br/>
 <br/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-
+<div align="left">
+        
 ![](https://github-readme-stats.vercel.app/api?username=krishnasai89&theme=transparent&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=krishnasai89&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnasai89&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
+</div>
+<div align="right">
+        
+![](https://github-readme-streak-stats.herokuapp.com/?user=krishnasai89&theme=transparent&hide_border=false)
+</div>
+<div align="center">
+        
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnasai89&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+</div>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
