@@ -65,7 +65,7 @@
         
 ![](https://github-readme-streak-stats.herokuapp.com/?user=krishnasai89&theme=transparent&hide_border=false)
 </div>
-<div align="right">
+<div align="left">
         
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnasai89&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 </div>
