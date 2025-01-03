@@ -55,12 +55,14 @@
  <br/>
 </div>
 <h2 align="center">⚡ Stats ⚡</h2>
-
+<div align="center">
+        
 ![](https://github-readme-stats.vercel.app/api?username=krishnasai89&theme=transparent&hide_border=false&include_all_commits=false&count_private=true)<br /><br />
-![](https://github-readme-streak-stats.herokuapp.com/?user=krishnasai89&theme=transparent&hide_border=false)    
+![](https://github-readme-streak-stats.herokuapp.com/?user=krishnasai89&theme=transparent&hide_border=false) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnasai89&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishnasai89&theme=github_dark" alt="krishnasai89's GitHub Stats"/>
+</div>
 </div>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
