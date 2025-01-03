@@ -14,6 +14,7 @@
 - 🌱 I’m currently learning **Full Stack, React js & python & Java** <br><br>
 - 💬 Ask me about **Full Stack Development** <br><br>
 - 📫 How to reach me **krishnasaivellampalli@gmail.com** <br><br>
+[![](https://visitcount.itsvg.in/api?id=krishnasai-89&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
 <br/>
 <div align="center">
@@ -53,23 +54,14 @@
  <br/>
  <br/>
 </div>
-<br/>
-<br/>
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align="left">
-        
-![](https://github-readme-stats.vercel.app/api?username=krishnasai89&theme=transparent&hide_border=false&include_all_commits=false&count_private=true)
-</div>
-<div align="right">
-        
-![](https://github-readme-streak-stats.herokuapp.com/?user=krishnasai89&theme=transparent&hide_border=false)
-</div>
-<div align="left">
-        
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnasai89&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-</div>
 
+![](https://github-readme-stats.vercel.app/api?username=krishnasai89&theme=transparent&hide_border=false&include_all_commits=false&count_private=true)<br /><br />
+![](https://github-readme-streak-stats.herokuapp.com/?user=krishnasai89&theme=transparent&hide_border=false)    
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnasai89&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishnasai-89&theme=github_dark" alt="krishnasai-89's GitHub Stats"/>
+</div>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   
@@ -78,3 +70,6 @@
 ---
 <h3 align="center">Let's build something great together! 😄</h3>
 </div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
