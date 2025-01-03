@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **Full Stack, React js & python & Java** <br><br>
 - 💬 Ask me about **Full Stack Development** <br><br>
 - 📫 How to reach me **krishnasaivellampalli@gmail.com** <br><br>
-[![](https://visitcount.itsvg.in/api?id=krishnasai-89&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=krishnasai89&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
 <br/>
 <div align="center">
