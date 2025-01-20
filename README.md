@@ -3,7 +3,7 @@
         ↘️↘️↘️↘️ Hi, there ↙️↙️↙️↙️</h1>
 <!-- Title Typing Effect -->
 <h3 align="center"><img
-                src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hii It's+Krishna Sai;Intern+Developer😎;Research+on+deep+learning😎;Full+Stack+Developer😎" alt="Typing SVG" /></a></h3>
+                src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hii It's+Krishna Sai;Research+on+deep+learning😎;Full+Stack+Developer😎" alt="Typing SVG" /></a></h3>
                 
 <h3 align="center">↘️↘️↘️↘️↘️ A passionate frontend developer and code enthusiast from India.↙️↙️↙️↙️↙️</h3><br/><br/>
 <img align="right" width="370" height="250" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
