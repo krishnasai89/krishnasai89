@@ -34,6 +34,9 @@ I'm a passionate software developer with a keen interest in open-source projects
  ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)
  ![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)
  ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)
+  <a href="" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
 </div>
 <br/>
 <div align="center">
