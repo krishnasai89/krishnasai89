@@ -14,18 +14,16 @@
 - 💬 Ask me about **Full Stack Development** <br><br>
 - 📫 How to reach me **krishnasaivellampalli@gmail.com** <br><br>
 [![](https://visitcount.itsvg.in/api?id=krishnasai89&icon=0&color=0)](https://visitcount.itsvg.in)
+
 </div>
-<br/>
-<div align="center">
-        
-## 👉🏻 About Me
-I'm a passionate software developer with a keen interest in open-source projects and innovative technologies. With a strong foundation in programming and a continuous drive to learn, I aim to contribute to meaningful projects and collaborate with other developers.</div>
-<br/>
+
 <div align="center">
   
 # 🌐 Connect with me:
-
  <a href="mailto:krishnasaivellampalli@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
+ <a href="https://k-portfolio-six.vercel.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/krishna-sai-vellampalli/)
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/krishna_sai_89/)
  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/kishna.sai.89)
@@ -34,9 +32,6 @@ I'm a passionate software developer with a keen interest in open-source projects
  ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)
  ![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)
  ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)
-  <a href="" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
 </div>
 <br/>
 <div align="center">
@@ -68,12 +63,8 @@ I'm a passionate software developer with a keen interest in open-source projects
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![tailwindcss](https://img.shields.io/badge/tailwindcss-%23593d88.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-<div align="left">
-🎨 Design:
-</div>
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <div align="left">
 💾 Databases:
@@ -109,13 +100,14 @@ I'm a passionate software developer with a keen interest in open-source projects
 </div>
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
-        
-![](https://github-readme-stats.vercel.app/api?username=krishnasai89&theme=transparent&hide_border=false&include_all_commits=false&count_private=true)<br /><br />
-![](https://github-readme-streak-stats.herokuapp.com/?user=krishnasai89&theme=transparent&hide_border=false) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnasai89&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishnasai89&theme=github_dark" alt="krishnasai89's GitHub Stats"/>
 </div>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=krishnasai89&theme=transparent&hide_border=false) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnasai89&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=krishnasai89&theme=transparent&hide_border=false&include_all_commits=false&count_private=true)
+
 </div>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
