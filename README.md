@@ -15,6 +15,9 @@
 - 🚀 Full-Stack Developer skilled in Python, Django, React, and REST APIs  
 - 🔍 Open to full-time software development opportunities  
 - 📫 Reach me at [krishnasaivellampalli@gmail.com](mailto:krishnasaivellampalli@gmail.com)
+<a href="https://k-portfolio-six.vercel.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
 
 [![](https://visitcount.itsvg.in/api?id=krishnasai89&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -23,10 +26,7 @@
 <div align="center">
   
 # 🌐 Connect with me:
- <a href="mailto:krishnasaivellampalli@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
- <a href="https://k-portfolio-six.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
+
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/krishna-sai-vellampalli/)
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/krishna_sai_89/)
  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/kishna.sai.89)
