@@ -8,11 +8,14 @@
 <img align="right" width="370" height="250" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 <div align="left">
   
-- 🌱 Learning Never Stops 🚀<br><br>
-- 💬 Major Skills **HTML, CSS, JAVASCRIPT, BOOTSTRAP ,React, PYTHON** <br><br>
-- 🌱 I’m currently learning **Full Stack, React js & python & Java** <br><br>
-- 💬 Ask me about **Full Stack Development** <br><br>
-- 📫 How to reach me **krishnasaivellampalli@gmail.com** <br><br>
+- 🌱 Learning Never Stops 🚀
+- 💬 Major Skills **HTML, CSS, JAVASCRIPT, BOOTSTRAP ,React, PYTHON** 
+- 🌱 I’m currently learning **Full Stack, React js & python & Java** 
+- 💬 Ask me about **Full Stack Development** 
+- 🚀 Full-Stack Developer skilled in Python, Django, React, and REST APIs  
+- 🔍 Open to full-time software development opportunities  
+- 📫 Reach me at [krishnasaivellampalli@gmail.com](mailto:krishnasaivellampalli@gmail.com)
+
 [![](https://visitcount.itsvg.in/api?id=krishnasai89&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
