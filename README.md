@@ -2,9 +2,6 @@
 
 💻 **Full Stack Developer** | 🐍 Python • ⚛️ React • 🌐 Django REST Framework  
 🚀 Passionate about building modern web apps & APIs with clean, maintainable code.  
-
-![](https://komarev.com/ghpvc/?username=your-username&label=Profile+Views&color=blue&style=flat)
-
 ---
 
 ## 🛠 Tech Stack  
@@ -37,17 +34,17 @@
 ---
 
 ## 📈 GitHub Stats  
-![Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
-![Streak](https://streak-stats.demolab.com?user=your-username&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=krishnasai89&show_icons=true&theme=radical)  
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnasai89&layout=compact&theme=radical)  
+![Streak](https://streak-stats.demolab.com?user=krishnasai89&theme=radical)
 
 ---
 
 ## 🌱 Activity Graph  
-[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=krishnasai89&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ## 🤝 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-sai-vellampalli/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishnasaivellampalli@gmail.com)  
