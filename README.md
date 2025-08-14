@@ -41,7 +41,10 @@
 ---
 
 ## 🐍 Snake Eating My Contributions  
+<div align="center">
+  
 ![Snake animation](https://raw.githubusercontent.com/krishnasai89/krishnasai89/output/github-contribution-grid-snake.svg)
+</div>
 
 ---
 
