@@ -1,1 +1,26 @@
+name: Update README
 
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs once daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      # Update date in README
+      - name: Update Date in README
+        run: |
+          sed -i "s|<!--LAST_UPDATED-->.*|$(date '+%d %B %Y, %I:%M %p UTC')|g" README.md
+      
+      # Commit changes
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "⏰ Auto-update README"
+          git push
