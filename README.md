@@ -67,6 +67,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnasai89&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </p>
+
 ---
 
 ## 🏆 GitHub Trophies 
