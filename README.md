@@ -11,11 +11,14 @@
 ## Creation 👨‍💻
 
 ### <img src="https://img.icons8.com/ios-filled/50/000000/Briefcase.png" width="16px" />  Portfolio 
-[Krishna Sai - Portfolio](https://k-portfolio-six.vercel.app/) ,
+[Krishna Sai - Portfolio](https://k-portfolio-six.vercel.app/),
 </> and Crafted with 💛 by Krishna Sai
 
+### <img src="https://flip-it.vercel.app/logo.png" width="16px" />  Flip-it!
+[Flip-it!](https://flip-it-eight.vercel.app/) is a website where you can flip/toss a Coin minimally. This is an open-source project that I created for fun, and the repo is available on [GitHub](https://github.com/krishnasai89/flip-it)
+
 <p align="right">
-.. working on few more projects 😉 </p>
+.. working on a few more projects 😉 </p>
 
 ## 🛠 Tech Stack
 
