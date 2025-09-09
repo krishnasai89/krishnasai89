@@ -64,7 +64,7 @@
 
 #### Backend
 ![Django](https://img.shields.io/badge/-Django-000?style=for-the-badge&logo=django&logoColor=green)
-![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-000?style=for-the-badge&logo=django&logoColor=white&logoColor=green)
+![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-000?style=for-the-badge&logo=django&logoColor=white&logoColor=red)
 ![API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi) 
 <!-- ![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
 ![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express) -->
