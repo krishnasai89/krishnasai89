@@ -14,6 +14,14 @@
 [Krishna Sai - Portfolio](https://k-portfolio-six.vercel.app/),
 </> and Crafted with 💛 by Krishna Sai
 
+## 🎨 Profile-Card
+
+[Profile Card](https://profile-card-in-html-and-css.vercel.app/) is a simple HTML & CSS project where I designed a professional profile card with  
+a light/dark mode toggle, social media icons, and a neat responsive layout.  
+This project helped me practice CSS styling, shadows, hover effects, and layout design.  
+
+🔗 Repo available on [GitHub](https://github.com/krishnasai89/Profile-Card-in-Html-and-Css)
+
 ### <img src="https://flip-it.vercel.app/logo.png" width="16px" />  Flip-it!
 [Flip-it!](https://flip-it-eight.vercel.app/) is a website where you can flip/toss a Coin minimally. This is an open-source project that I created for fun, and the repo is available on [GitHub](https://github.com/krishnasai89/flip-it)
 
