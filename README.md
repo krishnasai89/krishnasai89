@@ -16,11 +16,7 @@
 
 ### 🎨 Profile-Card
 
-[Profile Card](https://profile-card-in-html-and-css.vercel.app/) is a simple HTML & CSS project where I designed a professional profile card with  
-a light/dark mode toggle, social media icons, and a neat responsive layout.  
-This project helped me practice CSS styling, shadows, hover effects, and layout design.  
-
-🔗 Repo available on [GitHub](https://github.com/krishnasai89/Profile-Card-in-Html-and-Css)
+[Profile Card](https://profile-card-in-html-and-css.vercel.app/) is a simple HTML & CSS project where I designed a professional profile card with a light/dark mode toggle, social media icons, and a neat responsive layout. This project helped me practice CSS styling, shadows, hover effects, and layout design. The repo is available on [GitHub](https://github.com/krishnasai89/Profile-Card-in-Html-and-Css)
 
 ### ⛅ Weather App
 
