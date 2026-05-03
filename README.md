@@ -10,31 +10,37 @@
 
 ## Creation 👨‍💻
 
-### <img src="https://img.icons8.com/ios-filled/50/000000/Briefcase.png" width="16px" />  Portfolio 
-[Krishna Sai - Portfolio](https://k-portfolio-six.vercel.app/),
-</> and Crafted with 💛 by Krishna Sai
+## 👨‍💻 My Creations
+
+### 🛕 Vishwaguru
+[Vishwaguru](#) is an immersive, cinematic web experience built with Next.js and Tailwind CSS that explores India's ancient temples, sacred narratives, and classical arts. It features a premium glassmorphic dark-mode UI, smooth scroll-triggered animations using GSAP, and dynamic routing. This project helped me master advanced frontend design, state preservation, and complex UI/UX animations.  
+🔗 Repo available on [GitHub]([https://github.com/krishnasai89/Temples_Site.git])
+
+### 👨🏻‍💻 Portfolio 
+[Krishna Sai - Portfolio](https://k-portfolio-six.vercel.app/)  
+*</> Crafted with 💛 by Krishna Sai*
 
 ### 🎨 Profile-Card
-
-[Profile Card](https://profile-card-in-html-and-css.vercel.app/) is a simple HTML & CSS project where I designed a professional profile card with a light/dark mode toggle, social media icons, and a neat responsive layout. This project helped me practice CSS styling, shadows, hover effects, and layout design. The repo is available on [GitHub](https://github.com/krishnasai89/Profile-Card-in-Html-and-Css)
+[Profile Card](https://profile-card-in-html-and-css.vercel.app/) is a simple HTML & CSS project where I designed a professional profile card with a light/dark mode toggle, social media icons, and a neat responsive layout. This project helped me practice CSS styling, shadows, hover effects, and layout design.  
+🔗 Repo available on [GitHub](https://github.com/krishnasai89/Profile-Card-in-Html-and-Css)
 
 ### ⛅ Weather App
+[Weather App](https://jolly-scone-64ef31.netlify.app/) is a React-based web application that fetches real-time weather data using a public API. It displays:
+- 🌡️ Current weather conditions (temperature, feels-like, humidity, wind, cloud coverage)
+- 📅 A 5-day forecast with detailed weather info
+- 💻 Clean, responsive UI with a gradient background
 
-[Weather App](https://jolly-scone-64ef31.netlify.app/) is a React-based web application that fetches real-time weather data using a public API.
-It displays:
- - 🌡️ Current weather conditions (temperature, feels-like, humidity, wind, cloud coverage)
- - 📅 A 5-day forecast with detailed weather info
- - Clean, responsive UI with gradient background
-This project helped me strengthen my React skills, especially in API integration, state management, and dynamic rendering of components.
-
+This project helped me strengthen my React skills, especially in API integration, state management, and dynamic rendering of components.  
 🔗 Repo available on [GitHub](https://github.com/krishnasai89/WeatherApplication)
 
+### <img src="https://flip-it.vercel.app/logo.png" width="16px" alt="Flip-it Logo" /> Flip-it!
+[Flip-it!](https://flip-it-eight.vercel.app/) is a minimalist website where you can flip/toss a coin. This is an open-source project that I created for fun!  
+🔗 Repo available on [GitHub](https://github.com/krishnasai89/flip-it)
 
-### <img src="https://flip-it.vercel.app/logo.png" width="16px" />  Flip-it!
-[Flip-it!](https://flip-it-eight.vercel.app/) is a website where you can flip/toss a Coin minimally. This is an open-source project that I created for fun, and the repo is available on [GitHub](https://github.com/krishnasai89/flip-it)
-
+<br/>
 <p align="right">
-.. working on a few more projects 😉 </p>
+  <i>...working on a few more projects 😉</i>
+</p>
 
 ## 🛠 Tech Stack
 
