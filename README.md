@@ -13,8 +13,8 @@
 ## 👨‍💻 My Creations
 
 ### 🛕 Vishwaguru
-[Vishwaguru](https://github.com/krishnasai89/Temples_Site.git) is an immersive, cinematic web experience built with Next.js and Tailwind CSS that explores India's ancient temples, sacred narratives, and classical arts. It features a premium glassmorphic dark-mode UI, smooth scroll-triggered animations using GSAP, and dynamic routing. This project helped me master advanced frontend design, state preservation, and complex UI/UX animations.  
-🔗 Repo available on [GitHub]([https://github.com/krishnasai89/Temples_Site.git])
+[Vishwaguru](https://temples-site.vercel.app/) is an immersive, cinematic web experience built with Next.js and Tailwind CSS that explores India's ancient temples, sacred narratives, and classical arts. It features a premium glassmorphic dark-mode UI, smooth scroll-triggered animations using GSAP, and dynamic routing. This project helped me master advanced frontend design, state preservation, and complex UI/UX animations.  
+🔗 Repo available on [GitHub](https://github.com/krishnasai89/Temples_Site.git)
 
 ### 👨🏻‍💻 Portfolio 
 [Krishna Sai - Portfolio](https://k-portfolio-six.vercel.app/)  
