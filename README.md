@@ -12,6 +12,10 @@
 
 ## 👨‍💻 My Creations
 
+### 🕉️ The Gita Explorer
+[The Gita Explorer](#) is a high-performance, interactive Next.js web application bridging ancient Vedic philosophy with cutting-edge frontend architecture. It transforms the Bhagavad Gita from a static text into an immersive, multi-dimensional digital experience. Built with a highly structured JSON dataset, it features custom glassmorphism components and advanced, scroll-driven staggered animations using GSAP and ScrollTrigger.  
+🔗 Repo available on [GitHub](https://github.com/krishnasai89/Gita.git)
+
 ### 🛕 Vishwaguru
 [Vishwaguru](https://temples-site.vercel.app/) is an immersive, cinematic web experience built with Next.js and Tailwind CSS that explores India's ancient temples, sacred narratives, and classical arts. It features a premium glassmorphic dark-mode UI, smooth scroll-triggered animations using GSAP, and dynamic routing. This project helped me master advanced frontend design, state preservation, and complex UI/UX animations.  
 🔗 Repo available on [GitHub](https://github.com/krishnasai89/Temples_Site.git)
