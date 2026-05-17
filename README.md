@@ -8,8 +8,6 @@
   <img alt="Email" src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=D14836" />
 </a>
 
-## Creation 👨‍💻
-
 ## 👨‍💻 My Creations
 
 ### 🕉️ The Gita Explorer
