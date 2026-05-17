@@ -13,7 +13,7 @@
 ## 👨‍💻 My Creations
 
 ### 🕉️ The Gita Explorer
-[The Gita Explorer](#) is a high-performance, interactive Next.js web application bridging ancient Vedic philosophy with cutting-edge frontend architecture. It transforms the Bhagavad Gita from a static text into an immersive, multi-dimensional digital experience. Built with a highly structured JSON dataset, it features custom glassmorphism components and advanced, scroll-driven staggered animations using GSAP and ScrollTrigger.  
+[The Gita Explorer](https://gita-dusky.vercel.app/) is a high-performance, interactive Next.js web application bridging ancient Vedic philosophy with cutting-edge frontend architecture. It transforms the Bhagavad Gita from a static text into an immersive, multi-dimensional digital experience. Built with a highly structured JSON dataset, it features custom glassmorphism components and advanced, scroll-driven staggered animations using GSAP and ScrollTrigger.  
 🔗 Repo available on [GitHub](https://github.com/krishnasai89/Gita.git)
 
 ### 🛕 Vishwaguru
