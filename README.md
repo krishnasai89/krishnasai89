@@ -10,6 +10,12 @@
 
 ## 👨‍💻 My Creations
 
+### 💎 Interactive Portfolio Archive (2026 Edition)
+[Krishna Sai — Personal Portfolio](https://portfolio-2026-eight-pi.vercel.app/) is a custom digital installation designed to showcase creative frontend layouts and open-source archival builds. Built with a responsive, glassmorphic bento layout, it strips away heavy enterprise abstractions to focus on raw, high-performance execution.
+* **Core Toolkit:** Next.js (App Router Engine), Plain JavaScript, GSAP, Lenis Smooth Scroll, Tailwind CSS.
+* **Key Integrations:** Features a localized AI Chatbot widget with sub-600ms response timelines to handle real-time recruiter questions about my stack.
+🔗 Production code available on [GitHub](https://github.com/krishnasai89/portfolio-2026.git)
+
 ### 🕉️ The Gita Explorer
 [The Gita Explorer](https://gita-dusky.vercel.app/) is a high-performance, interactive Next.js web application bridging ancient Vedic philosophy with cutting-edge frontend architecture. It transforms the Bhagavad Gita from a static text into an immersive, multi-dimensional digital experience. Built with a highly structured JSON dataset, it features custom glassmorphism components and advanced, scroll-driven staggered animations using GSAP and ScrollTrigger.  
 🔗 Repo available on [GitHub](https://github.com/krishnasai89/Gita.git)
@@ -21,10 +27,6 @@
 ### 👨🏻‍💻 Portfolio 
 [Krishna Sai - Portfolio](https://k-portfolio-six.vercel.app/)  
 *</> Crafted with 💛 by Krishna Sai*
-
-### 🎨 Profile-Card
-[Profile Card](https://profile-card-in-html-and-css.vercel.app/) is a simple HTML & CSS project where I designed a professional profile card with a light/dark mode toggle, social media icons, and a neat responsive layout. This project helped me practice CSS styling, shadows, hover effects, and layout design.  
-🔗 Repo available on [GitHub](https://github.com/krishnasai89/Profile-Card-in-Html-and-Css)
 
 ### ⛅ Weather App
 [Weather App](https://jolly-scone-64ef31.netlify.app/) is a React-based web application that fetches real-time weather data using a public API. It displays:
