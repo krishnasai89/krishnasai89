@@ -2,7 +2,7 @@
 <h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Krishna Sai </br> 
 </h1>
 <p align="center">
- <a href="https://k-portfolio-six.vercel.app/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+ <a href="https://portfolio-2026-eight-pi.vercel.app/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
  <a href="https://www.linkedin.com/in/krishna-sai-vellampalli/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="mailto:krishnasaivellampalli@gmail.com" target="_blank">
   <img alt="Email" src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=D14836" />
@@ -13,7 +13,7 @@
 ### 💎 Interactive Portfolio Archive (2026 Edition)
 [Krishna Sai — Personal Portfolio](https://portfolio-2026-eight-pi.vercel.app/) is a custom digital installation designed to showcase creative frontend layouts and open-source archival builds. Built with a responsive, glassmorphic bento layout, it strips away heavy enterprise abstractions to focus on raw, high-performance execution.
 * **Core Toolkit:** Next.js (App Router Engine), Plain JavaScript, GSAP, Lenis Smooth Scroll, Tailwind CSS.
-* **Key Integrations:** Features a localized AI Chatbot widget with sub-600ms response timelines to handle real-time recruiter questions about my stack.
+* **Key Integrations:** Features a localized AI Chatbot widget with sub-600ms response timelines to handle real-time recruiter questions about my stack.<br/>
 🔗 Production code available on [GitHub](https://github.com/krishnasai89/portfolio-2026.git)
 
 ### 🕉️ The Gita Explorer
@@ -23,10 +23,6 @@
 ### 🛕 Vishwaguru
 [Vishwaguru](https://temples-site.vercel.app/) is an immersive, cinematic web experience built with Next.js and Tailwind CSS that explores India's ancient temples, sacred narratives, and classical arts. It features a premium glassmorphic dark-mode UI, smooth scroll-triggered animations using GSAP, and dynamic routing. This project helped me master advanced frontend design, state preservation, and complex UI/UX animations.  
 🔗 Repo available on [GitHub](https://github.com/krishnasai89/Temples_Site.git)
-
-### 👨🏻‍💻 Portfolio 
-[Krishna Sai - Portfolio](https://k-portfolio-six.vercel.app/)  
-*</> Crafted with 💛 by Krishna Sai*
 
 ### ⛅ Weather App
 [Weather App](https://jolly-scone-64ef31.netlify.app/) is a React-based web application that fetches real-time weather data using a public API. It displays:
