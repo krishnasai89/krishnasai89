@@ -13,7 +13,8 @@
 ### 💎 Interactive Portfolio Archive (2026 Edition)
 [Krishna Sai — Personal Portfolio](https://portfolio-2026-eight-pi.vercel.app/) is a custom digital installation designed to showcase creative frontend layouts and open-source archival builds. Built with a responsive, glassmorphic bento layout, it strips away heavy enterprise abstractions to focus on raw, high-performance execution.
 * **Core Toolkit:** Next.js (App Router Engine), Plain JavaScript, GSAP, Lenis Smooth Scroll, Tailwind CSS.
-* **Key Integrations:** Features a localized AI Chatbot widget with sub-600ms response timelines to handle real-time recruiter questions about my stack.<br/>
+* **Key Integrations:** Features a localized AI Chatbot widget with sub-600ms response timelines to handle real-time recruiter questions about my stack.
+
 🔗 Production code available on [GitHub](https://github.com/krishnasai89/portfolio-2026.git)
 
 ### 🕉️ The Gita Explorer
