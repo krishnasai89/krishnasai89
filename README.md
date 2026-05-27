@@ -21,6 +21,13 @@
 [The Gita Explorer](https://gita-dusky.vercel.app/) is a high-performance, interactive Next.js web application bridging ancient Vedic philosophy with cutting-edge frontend architecture. It transforms the Bhagavad Gita from a static text into an immersive, multi-dimensional digital experience. Built with a highly structured JSON dataset, it features custom glassmorphism components and advanced, scroll-driven staggered animations using GSAP and ScrollTrigger.  
 🔗 Repo available on [GitHub](https://github.com/krishnasai89/Gita.git)
 
+### 🌌 GEOTAG.ARCHIVE // Spatial Artifact Ledger
+[GEOTAG.ARCHIVE](https://cultural-geotags.vercel.app/) is a hardware-accelerated, minimalist digital index designed to map, archive, and showcase traditional regional Indian cultural crafts, heritage textiles, and global weaving methodologies. Built with a terminal-style aesthetic, it tracks 51 distinct historical artifacts across an asymmetric, dense mosaic landscape.
+* **Core Toolkit:** Next.js (App Router Engine Framework), Three.js, GSAP & ScrollTrigger, React Context API Ledger, Tailwind CSS.
+* **Key Integrations:** Features a synchronized hardware-accelerated WebGL particle globe, a Matrix-style cold-boot telemetry preloader script, a real-time multi-tier filter console engine, and an automated atomic quantification shopping ledger with cached state preservation.
+
+🔗 Production code available on [GitHub](https://github.com/krishnasai89/Cultural-Geotags.git)
+
 ### 🛕 Vishwaguru
 [Vishwaguru](https://temples-site.vercel.app/) is an immersive, cinematic web experience built with Next.js and Tailwind CSS that explores India's ancient temples, sacred narratives, and classical arts. It features a premium glassmorphic dark-mode UI, smooth scroll-triggered animations using GSAP, and dynamic routing. This project helped me master advanced frontend design, state preservation, and complex UI/UX animations.  
 🔗 Repo available on [GitHub](https://github.com/krishnasai89/Temples_Site.git)
