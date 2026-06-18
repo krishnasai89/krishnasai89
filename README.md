@@ -21,6 +21,14 @@
 [The Gita Explorer](https://gita-dusky.vercel.app/) is a high-performance, interactive Next.js web application bridging ancient Vedic philosophy with cutting-edge frontend architecture. It transforms the Bhagavad Gita from a static text into an immersive, multi-dimensional digital experience. Built with a highly structured JSON dataset, it features custom glassmorphism components and advanced, scroll-driven staggered animations using GSAP and ScrollTrigger.  
 🔗 Repo available on [GitHub](https://github.com/krishnasai89/Gita.git)
 
+### 🌊 ASHTAVAKRA GITA // The Unbending Axis
+The [Ashtavakra Gita Explorer](https://ashtavakra-gita-explorer.vercel.app/) is an immersive, hardware-accelerated creative development platform that translates the core metaphysics of Advaita Vedanta philosophy into high-end frontend architecture. It removes standard corporate web layout monotony in favor of a monolithic, interactive focus canvas.
+* **Core Toolkit**: Next.js 16 (App Router Engine via Turbopack), Three.js (@react-three/fiber & @react-three/drei), GSAP (ScrollTrigger & ScrollToPlugin), Tailwind CSS v4.
+
+* **Key Integrations**: Features a custom GLSL-shaded 3D Sanskrit typographic cloud that undulates and morphs under pointer velocity forces, a high-visibility mobile-optimized neon ASCII graphic engine, a split-screen static-height philosophy explorer console to eliminate layout content jumping, and an asymmetric bento grid navigation chapter index.
+
+🔗 Production code available on [GitHub](https://github.com/krishnasai89/ashtavakra-gita-explorer.git)
+
 ### 🌌 GEOTAG.ARCHIVE // Spatial Artifact Ledger
 [GEOTAG.ARCHIVE](https://cultural-geotags.vercel.app/) is a hardware-accelerated, minimalist digital index designed to map, archive, and showcase traditional regional Indian cultural crafts, heritage textiles, and global weaving methodologies. Built with a terminal-style aesthetic, it tracks 51 distinct historical artifacts across an asymmetric, dense mosaic landscape.
 * **Core Toolkit:** Next.js (App Router Engine Framework), Three.js, GSAP & ScrollTrigger, React Context API Ledger, Tailwind CSS.
